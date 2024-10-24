@@ -1,6 +1,6 @@
 \..\WINDOWS\win.ini
 \..\..\WINDOWS\win.ini
-\..\..\..\WINDOWS\win.ini
+\..\.
 \..\..\..\..\WINDOWS\win.ini
 \..\..\..\..\..\WINDOWS\win.ini
 \..\..\..\..\..\..\WINDOWS\win.ini
